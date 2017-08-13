@@ -1,3 +1,4 @@
+## ignore items
 grav-admin/assets/*
 grav-admin/backup/*
 grav-admin/bin/*
@@ -21,3 +22,5 @@ grav-admin/composer.lock
 grav-admin/index.php
 grav-admin/robots.txt
 
+#include items below
+!grav-admin/system/config/system.yaml
