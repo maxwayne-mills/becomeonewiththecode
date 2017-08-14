@@ -5,7 +5,6 @@ grav-admin/bin/*
 grav-admin/cache/*
 grav-admin/images/*
 grav-admin/logs/*
-grav-admin/system/*
 grav-admin/tmp/*
 grav-admin/vendor/*
 grav-admin/webserver-configs/*
